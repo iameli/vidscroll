@@ -1,0 +1,2034 @@
+{
+  "4c0e44fb7aa83ca78a01689979617e91": {
+    "uid": "4c0e44fb7aa83ca78a01689979617e91",
+    "mediaGroups": {
+      "AUDIO": {
+        "group_audio": {
+          "audio_0": {
+            "allowCache": true,
+            "discontinuityStarts": [],
+            "segments": [
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_0.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_1.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_2.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_3.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_4.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_5.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_6.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_7.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_8.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_9.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_10.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_11.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_12.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_13.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 0.998556,
+                "uri": "../audio/128/stream_0-seg_14.ts",
+                "timeline": 0
+              }
+            ],
+            "playlistType": "VOD",
+            "mediaSequence": 0,
+            "targetDuration": 4,
+            "discontinuitySequence": 0,
+            "endList": true
+          }
+        }
+      },
+      "VIDEO": {},
+      "CLOSED-CAPTIONS": {},
+      "SUBTITLES": {}
+    },
+    "playlists": {
+      "stream_1.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_4.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_5.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_6.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_7.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_8.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_9.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_10.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_11.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_12.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_13.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.934267,
+            "uri": "../video/240/stream_1-seg_14.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/4c0e44fb7aa83ca78a01689979617e91/manifest/stream_1.m3u8"
+      },
+      "stream_2.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_4.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_5.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_6.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_7.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_8.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_9.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_10.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_11.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_12.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_13.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.934267,
+            "uri": "../video/360/stream_2-seg_14.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/4c0e44fb7aa83ca78a01689979617e91/manifest/stream_2.m3u8"
+      },
+      "stream_3.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_4.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_5.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_6.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_7.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_8.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_9.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_10.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_11.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_12.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_13.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.934267,
+            "uri": "../video/480/stream_3-seg_14.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/4c0e44fb7aa83ca78a01689979617e91/manifest/stream_3.m3u8"
+      },
+      "stream_4.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_4.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_5.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_6.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_7.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_8.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_9.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_10.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_11.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_12.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_13.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.934267,
+            "uri": "../video/720/stream_4-seg_14.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/4c0e44fb7aa83ca78a01689979617e91/manifest/stream_4.m3u8"
+      },
+      "stream_5.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_4.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_5.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_6.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_7.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_8.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_9.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_10.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_11.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_12.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_13.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.934267,
+            "uri": "../video/1080/stream_5-seg_14.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/4c0e44fb7aa83ca78a01689979617e91/manifest/stream_5.m3u8"
+      }
+    },
+    "master": {
+      "allowCache": true,
+      "discontinuityStarts": [],
+      "segments": [],
+      "mediaGroups": {
+        "AUDIO": {
+          "group_audio": {
+            "audio_0": {
+              "default": true,
+              "autoselect": true,
+              "uri": "stream_0.m3u8"
+            }
+          }
+        },
+        "VIDEO": {},
+        "CLOSED-CAPTIONS": {},
+        "SUBTITLES": {}
+      },
+      "playlists": [
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 580800,
+            "CODECS": "avc1.42c014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 136,
+              "height": 240
+            }
+          },
+          "uri": "stream_1.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 1020800,
+            "CODECS": "avc1.4d4014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 202,
+              "height": 360
+            }
+          },
+          "uri": "stream_2.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 2120800,
+            "CODECS": "avc1.4d4015,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 270,
+              "height": 480
+            }
+          },
+          "uri": "stream_3.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 4100800,
+            "CODECS": "avc1.4d401e,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 406,
+              "height": 720
+            }
+          },
+          "uri": "stream_4.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 5860800,
+            "CODECS": "avc1.4d401f,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 608,
+              "height": 1080
+            }
+          },
+          "uri": "stream_5.m3u8",
+          "timeline": 0
+        }
+      ],
+      "url": "https://videodelivery.net/4c0e44fb7aa83ca78a01689979617e91/manifest/video.m3u8"
+    }
+  },
+  "5d60445d3fff6a4ce31937a86895e395": {
+    "uid": "5d60445d3fff6a4ce31937a86895e395",
+    "mediaGroups": {
+      "AUDIO": {
+        "group_audio": {
+          "audio_0": {
+            "allowCache": true,
+            "discontinuityStarts": [],
+            "segments": [
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_0.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_1.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_2.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.018889,
+                "uri": "../audio/128/stream_0-seg_3.ts",
+                "timeline": 0
+              }
+            ],
+            "playlistType": "VOD",
+            "mediaSequence": 0,
+            "targetDuration": 4,
+            "discontinuitySequence": 0,
+            "endList": true
+          }
+        }
+      },
+      "VIDEO": {},
+      "CLOSED-CAPTIONS": {},
+      "SUBTITLES": {}
+    },
+    "playlists": {
+      "stream_1.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/240/stream_1-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5d60445d3fff6a4ce31937a86895e395/manifest/stream_1.m3u8"
+      },
+      "stream_2.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/360/stream_2-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5d60445d3fff6a4ce31937a86895e395/manifest/stream_2.m3u8"
+      },
+      "stream_3.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/480/stream_3-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5d60445d3fff6a4ce31937a86895e395/manifest/stream_3.m3u8"
+      },
+      "stream_4.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/720/stream_4-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5d60445d3fff6a4ce31937a86895e395/manifest/stream_4.m3u8"
+      },
+      "stream_5.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/1080/stream_5-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5d60445d3fff6a4ce31937a86895e395/manifest/stream_5.m3u8"
+      }
+    },
+    "master": {
+      "allowCache": true,
+      "discontinuityStarts": [],
+      "segments": [],
+      "mediaGroups": {
+        "AUDIO": {
+          "group_audio": {
+            "audio_0": {
+              "default": true,
+              "autoselect": true,
+              "uri": "stream_0.m3u8"
+            }
+          }
+        },
+        "VIDEO": {},
+        "CLOSED-CAPTIONS": {},
+        "SUBTITLES": {}
+      },
+      "playlists": [
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 580800,
+            "CODECS": "avc1.42c014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 136,
+              "height": 240
+            }
+          },
+          "uri": "stream_1.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 1020800,
+            "CODECS": "avc1.4d4014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 202,
+              "height": 360
+            }
+          },
+          "uri": "stream_2.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 2120800,
+            "CODECS": "avc1.4d4015,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 270,
+              "height": 480
+            }
+          },
+          "uri": "stream_3.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 4100800,
+            "CODECS": "avc1.4d401e,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 406,
+              "height": 720
+            }
+          },
+          "uri": "stream_4.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 5860800,
+            "CODECS": "avc1.4d401f,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 608,
+              "height": 1080
+            }
+          },
+          "uri": "stream_5.m3u8",
+          "timeline": 0
+        }
+      ],
+      "url": "https://videodelivery.net/5d60445d3fff6a4ce31937a86895e395/manifest/video.m3u8"
+    }
+  },
+  "df842ccace22d1c45e345c977bbec89f": {
+    "uid": "df842ccace22d1c45e345c977bbec89f",
+    "mediaGroups": {
+      "AUDIO": {
+        "group_audio": {
+          "audio_0": {
+            "allowCache": true,
+            "discontinuityStarts": [],
+            "segments": [
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_0.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_1.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_2.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 2.949222,
+                "uri": "../audio/128/stream_0-seg_3.ts",
+                "timeline": 0
+              }
+            ],
+            "playlistType": "VOD",
+            "mediaSequence": 0,
+            "targetDuration": 4,
+            "discontinuitySequence": 0,
+            "endList": true
+          }
+        }
+      },
+      "VIDEO": {},
+      "CLOSED-CAPTIONS": {},
+      "SUBTITLES": {}
+    },
+    "playlists": {
+      "stream_1.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/240/stream_1-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/240/stream_1-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/df842ccace22d1c45e345c977bbec89f/manifest/stream_1.m3u8"
+      },
+      "stream_2.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/360/stream_2-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/360/stream_2-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/df842ccace22d1c45e345c977bbec89f/manifest/stream_2.m3u8"
+      },
+      "stream_3.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/480/stream_3-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/480/stream_3-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/df842ccace22d1c45e345c977bbec89f/manifest/stream_3.m3u8"
+      },
+      "stream_4.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/720/stream_4-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/720/stream_4-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/df842ccace22d1c45e345c977bbec89f/manifest/stream_4.m3u8"
+      },
+      "stream_5.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4.004,
+            "uri": "../video/1080/stream_5-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.036367,
+            "uri": "../video/1080/stream_5-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/df842ccace22d1c45e345c977bbec89f/manifest/stream_5.m3u8"
+      }
+    },
+    "master": {
+      "allowCache": true,
+      "discontinuityStarts": [],
+      "segments": [],
+      "mediaGroups": {
+        "AUDIO": {
+          "group_audio": {
+            "audio_0": {
+              "default": true,
+              "autoselect": true,
+              "uri": "stream_0.m3u8"
+            }
+          }
+        },
+        "VIDEO": {},
+        "CLOSED-CAPTIONS": {},
+        "SUBTITLES": {}
+      },
+      "playlists": [
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 580800,
+            "CODECS": "avc1.42c014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 136,
+              "height": 240
+            }
+          },
+          "uri": "stream_1.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 1020800,
+            "CODECS": "avc1.4d4014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 202,
+              "height": 360
+            }
+          },
+          "uri": "stream_2.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 2120800,
+            "CODECS": "avc1.4d4015,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 270,
+              "height": 480
+            }
+          },
+          "uri": "stream_3.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 4100800,
+            "CODECS": "avc1.4d401e,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 406,
+              "height": 720
+            }
+          },
+          "uri": "stream_4.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 5860800,
+            "CODECS": "avc1.4d401f,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 608,
+              "height": 1080
+            }
+          },
+          "uri": "stream_5.m3u8",
+          "timeline": 0
+        }
+      ],
+      "url": "https://videodelivery.net/df842ccace22d1c45e345c977bbec89f/manifest/video.m3u8"
+    }
+  },
+  "c66e998c426d56a4e35d4a3ea4f4937c": {
+    "uid": "c66e998c426d56a4e35d4a3ea4f4937c",
+    "mediaGroups": {
+      "AUDIO": {
+        "group_audio": {
+          "audio_0": {
+            "allowCache": true,
+            "discontinuityStarts": [],
+            "segments": [
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_0.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_1.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 0.812778,
+                "uri": "../audio/128/stream_0-seg_2.ts",
+                "timeline": 0
+              }
+            ],
+            "playlistType": "VOD",
+            "mediaSequence": 0,
+            "targetDuration": 4,
+            "discontinuitySequence": 0,
+            "endList": true
+          }
+        }
+      },
+      "VIDEO": {},
+      "CLOSED-CAPTIONS": {},
+      "SUBTITLES": {}
+    },
+    "playlists": {
+      "stream_1.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.833333,
+            "uri": "../video/240/stream_1-seg_2.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/c66e998c426d56a4e35d4a3ea4f4937c/manifest/stream_1.m3u8"
+      },
+      "stream_2.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.833333,
+            "uri": "../video/360/stream_2-seg_2.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/c66e998c426d56a4e35d4a3ea4f4937c/manifest/stream_2.m3u8"
+      },
+      "stream_3.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.833333,
+            "uri": "../video/480/stream_3-seg_2.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/c66e998c426d56a4e35d4a3ea4f4937c/manifest/stream_3.m3u8"
+      },
+      "stream_4.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.833333,
+            "uri": "../video/720/stream_4-seg_2.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/c66e998c426d56a4e35d4a3ea4f4937c/manifest/stream_4.m3u8"
+      },
+      "stream_5.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/1080/stream_5-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/1080/stream_5-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 0.833333,
+            "uri": "../video/1080/stream_5-seg_2.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/c66e998c426d56a4e35d4a3ea4f4937c/manifest/stream_5.m3u8"
+      }
+    },
+    "master": {
+      "allowCache": true,
+      "discontinuityStarts": [],
+      "segments": [],
+      "mediaGroups": {
+        "AUDIO": {
+          "group_audio": {
+            "audio_0": {
+              "default": true,
+              "autoselect": true,
+              "uri": "stream_0.m3u8"
+            }
+          }
+        },
+        "VIDEO": {},
+        "CLOSED-CAPTIONS": {},
+        "SUBTITLES": {}
+      },
+      "playlists": [
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 580800,
+            "CODECS": "avc1.42c014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 136,
+              "height": 240
+            }
+          },
+          "uri": "stream_1.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 1020800,
+            "CODECS": "avc1.4d4014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 202,
+              "height": 360
+            }
+          },
+          "uri": "stream_2.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 2120800,
+            "CODECS": "avc1.4d4015,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 270,
+              "height": 480
+            }
+          },
+          "uri": "stream_3.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 4100800,
+            "CODECS": "avc1.4d401e,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 406,
+              "height": 720
+            }
+          },
+          "uri": "stream_4.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 5860800,
+            "CODECS": "avc1.4d401f,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 608,
+              "height": 1080
+            }
+          },
+          "uri": "stream_5.m3u8",
+          "timeline": 0
+        }
+      ],
+      "url": "https://videodelivery.net/c66e998c426d56a4e35d4a3ea4f4937c/manifest/video.m3u8"
+    }
+  },
+  "5fcd7f8dfc6efbed04e7acc7a47ad860": {
+    "uid": "5fcd7f8dfc6efbed04e7acc7a47ad860",
+    "mediaGroups": {
+      "AUDIO": {
+        "group_audio": {
+          "audio_0": {
+            "allowCache": true,
+            "discontinuityStarts": [],
+            "segments": [
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_0.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_1.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_2.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.529778,
+                "uri": "../audio/128/stream_0-seg_3.ts",
+                "timeline": 0
+              }
+            ],
+            "playlistType": "VOD",
+            "mediaSequence": 0,
+            "targetDuration": 4,
+            "discontinuitySequence": 0,
+            "endList": true
+          }
+        }
+      },
+      "VIDEO": {},
+      "CLOSED-CAPTIONS": {},
+      "SUBTITLES": {}
+    },
+    "playlists": {
+      "stream_1.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.633333,
+            "uri": "../video/240/stream_1-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5fcd7f8dfc6efbed04e7acc7a47ad860/manifest/stream_1.m3u8"
+      },
+      "stream_2.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.633333,
+            "uri": "../video/360/stream_2-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5fcd7f8dfc6efbed04e7acc7a47ad860/manifest/stream_2.m3u8"
+      },
+      "stream_3.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.633333,
+            "uri": "../video/480/stream_3-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5fcd7f8dfc6efbed04e7acc7a47ad860/manifest/stream_3.m3u8"
+      },
+      "stream_4.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.633333,
+            "uri": "../video/720/stream_4-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5fcd7f8dfc6efbed04e7acc7a47ad860/manifest/stream_4.m3u8"
+      },
+      "stream_5.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/1080/stream_5-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/1080/stream_5-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/1080/stream_5-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 3.633333,
+            "uri": "../video/1080/stream_5-seg_3.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/5fcd7f8dfc6efbed04e7acc7a47ad860/manifest/stream_5.m3u8"
+      }
+    },
+    "master": {
+      "allowCache": true,
+      "discontinuityStarts": [],
+      "segments": [],
+      "mediaGroups": {
+        "AUDIO": {
+          "group_audio": {
+            "audio_0": {
+              "default": true,
+              "autoselect": true,
+              "uri": "stream_0.m3u8"
+            }
+          }
+        },
+        "VIDEO": {},
+        "CLOSED-CAPTIONS": {},
+        "SUBTITLES": {}
+      },
+      "playlists": [
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 580800,
+            "CODECS": "avc1.42c014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 136,
+              "height": 240
+            }
+          },
+          "uri": "stream_1.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 1020800,
+            "CODECS": "avc1.4d4014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 202,
+              "height": 360
+            }
+          },
+          "uri": "stream_2.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 2120800,
+            "CODECS": "avc1.4d4015,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 270,
+              "height": 480
+            }
+          },
+          "uri": "stream_3.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 4100800,
+            "CODECS": "avc1.4d401e,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 406,
+              "height": 720
+            }
+          },
+          "uri": "stream_4.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 5860800,
+            "CODECS": "avc1.4d401f,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 608,
+              "height": 1080
+            }
+          },
+          "uri": "stream_5.m3u8",
+          "timeline": 0
+        }
+      ],
+      "url": "https://videodelivery.net/5fcd7f8dfc6efbed04e7acc7a47ad860/manifest/video.m3u8"
+    }
+  },
+  "89fbb0b31dd281157e73e682a231c13e": {
+    "uid": "89fbb0b31dd281157e73e682a231c13e",
+    "mediaGroups": {
+      "AUDIO": {
+        "group_audio": {
+          "audio_0": {
+            "allowCache": true,
+            "discontinuityStarts": [],
+            "segments": [
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_0.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_1.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 3.994222,
+                "uri": "../audio/128/stream_0-seg_2.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 4.017444,
+                "uri": "../audio/128/stream_0-seg_3.ts",
+                "timeline": 0
+              },
+              {
+                "duration": 1.463,
+                "uri": "../audio/128/stream_0-seg_4.ts",
+                "timeline": 0
+              }
+            ],
+            "playlistType": "VOD",
+            "mediaSequence": 0,
+            "targetDuration": 4,
+            "discontinuitySequence": 0,
+            "endList": true
+          }
+        }
+      },
+      "VIDEO": {},
+      "CLOSED-CAPTIONS": {},
+      "SUBTITLES": {}
+    },
+    "playlists": {
+      "stream_1.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/240/stream_1-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 1.533333,
+            "uri": "../video/240/stream_1-seg_4.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/89fbb0b31dd281157e73e682a231c13e/manifest/stream_1.m3u8"
+      },
+      "stream_2.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/360/stream_2-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 1.533333,
+            "uri": "../video/360/stream_2-seg_4.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/89fbb0b31dd281157e73e682a231c13e/manifest/stream_2.m3u8"
+      },
+      "stream_3.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/480/stream_3-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 1.533333,
+            "uri": "../video/480/stream_3-seg_4.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/89fbb0b31dd281157e73e682a231c13e/manifest/stream_3.m3u8"
+      },
+      "stream_4.m3u8": {
+        "allowCache": true,
+        "discontinuityStarts": [],
+        "segments": [
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_0.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_1.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_2.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 4,
+            "uri": "../video/720/stream_4-seg_3.ts",
+            "timeline": 0
+          },
+          {
+            "duration": 1.533333,
+            "uri": "../video/720/stream_4-seg_4.ts",
+            "timeline": 0
+          }
+        ],
+        "playlistType": "VOD",
+        "mediaSequence": 0,
+        "targetDuration": 4,
+        "discontinuitySequence": 0,
+        "endList": true,
+        "url": "https://videodelivery.net/89fbb0b31dd281157e73e682a231c13e/manifest/stream_4.m3u8"
+      }
+    },
+    "master": {
+      "allowCache": true,
+      "discontinuityStarts": [],
+      "segments": [],
+      "mediaGroups": {
+        "AUDIO": {
+          "group_audio": {
+            "audio_0": {
+              "default": true,
+              "autoselect": true,
+              "uri": "stream_0.m3u8"
+            }
+          }
+        },
+        "VIDEO": {},
+        "CLOSED-CAPTIONS": {},
+        "SUBTITLES": {}
+      },
+      "playlists": [
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 580800,
+            "CODECS": "avc1.42c014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 136,
+              "height": 240
+            }
+          },
+          "uri": "stream_1.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 1020800,
+            "CODECS": "avc1.4d4014,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 202,
+              "height": 360
+            }
+          },
+          "uri": "stream_2.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 2120800,
+            "CODECS": "avc1.4d4015,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 270,
+              "height": 480
+            }
+          },
+          "uri": "stream_3.m3u8",
+          "timeline": 0
+        },
+        {
+          "attributes": {
+            "AUDIO": "group_audio",
+            "BANDWIDTH": 4100800,
+            "CODECS": "avc1.4d401e,mp4a.40.2",
+            "RESOLUTION": {
+              "width": 406,
+              "height": 720
+            }
+          },
+          "uri": "stream_4.m3u8",
+          "timeline": 0
+        }
+      ],
+      "url": "https://videodelivery.net/89fbb0b31dd281157e73e682a231c13e/manifest/video.m3u8"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.middle {
+  position: relative;
+  height: 100%;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  -webkit-overflow-scrolling: touch;
+  height: calc(100vh - 75px);
+}

@@ -1,0 +1,6 @@
+node_modules
+.cache
+dist
+dist-worker
+dev-store.json
+worker/account.js

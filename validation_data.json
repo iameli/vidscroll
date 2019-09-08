@@ -1,0 +1,135 @@
+{
+  "dataVersion" : 1.1000000000000001,
+  "independentSegments" : false,
+  "parsedSegmentsCount" : 6,
+  "discontinuities" : [
+    {
+      "segments" : [
+        {
+          "segmentDurationTag" : 15.048367000000001,
+          "mediaSequence" : 0,
+          "dataID" : 1,
+          "url" : "vids\/v090440d0000blneik5qa7lmoq8phucg.ts",
+          "segmentByteRangeLength" : 0,
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "format" : "transport",
+          "videoFrameRate" : 29.970029970029969,
+          "startTime" : 1.3999999999999999,
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 8.8333329999999997,
+          "mediaSequence" : 1,
+          "dataID" : 2,
+          "url" : "vids\/v090444f0000blp9g7md9kv2rgck2mb0.ts",
+          "segmentByteRangeLength" : 0,
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "format" : "transport",
+          "videoFrameRate" : 29.999999999999996,
+          "startTime" : 16.415066666666668,
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 15.048367000000001,
+          "mediaSequence" : 2,
+          "dataID" : 3,
+          "url" : "vids\/v09044650000blm571ndgse52c19p9mg.ts",
+          "segmentByteRangeLength" : 0,
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "format" : "transport",
+          "videoFrameRate" : 29.970029970029969,
+          "startTime" : 25.261800000000001,
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 17.533332999999999,
+          "mediaSequence" : 3,
+          "dataID" : 4,
+          "url" : "vids\/v090447e0000blm3mb7smmqto7avms50.ts",
+          "segmentByteRangeLength" : 0,
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "format" : "transport",
+          "videoFrameRate" : 29.999999999999996,
+          "startTime" : 40.308388888888892,
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 56.990267000000003,
+          "mediaSequence" : 4,
+          "dataID" : 5,
+          "url" : "vids\/v090448f0000blolrd97t905lh89e5fg.ts",
+          "segmentByteRangeLength" : 0,
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "format" : "transport",
+          "videoFrameRate" : 29.970029970029973,
+          "startTime" : 57.816155555555554,
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 15.633333,
+          "mediaSequence" : 5,
+          "dataID" : 6,
+          "url" : "vids\/v09044930000blpivmtbdtevjagqpbc0.ts",
+          "segmentByteRangeLength" : 0,
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "format" : "transport",
+          "videoFrameRate" : 30,
+          "startTime" : 114.84442222222222,
+          "discontinuityDomain" : 0
+        }
+      ],
+      "measurements" : {
+        "measuredMaxBitrate" : 1620228.1787667938,
+        "measuredMeanBitrate" : 1597068.6436279409
+      },
+      "tracks" : [
+        {
+          "trackVideoIDRStandardDeviation" : 0,
+          "trackId" : 1,
+          "trackVideoWidth" : 720,
+          "trackVideoLevel" : 31,
+          "trackVideoTransferFunction" : "ITU_R_709_2",
+          "trackVideoHeight" : 1280,
+          "trackMediaType" : "vide",
+          "trackVideoIDRInterval" : 8.3416666666666668,
+          "trackVideoIsInterlaced" : false,
+          "trackVideoProfile" : 100,
+          "trackMediaSubType" : "avc1"
+        },
+        {
+          "trackMediaType" : "soun",
+          "trackAudioChannelCount" : 2,
+          "trackId" : 2,
+          "trackAudioSampleRate" : 44100,
+          "trackMediaSubType" : "aac ",
+          "trackAudioChannelLayout" : "Stereo (L R)"
+        }
+      ]
+    }
+  ],
+  "gzipEncoded" : false,
+  "hasDiscSequenceTag" : false,
+  "measuredMaxBitrate" : 1620228,
+  "url" : "http:\/\/localhost:4000\/playlist.m3u8",
+  "playlistKind" : "media",
+  "validatorTimestamp" : "2019-09-14T17:17:56-07:00",
+  "sslContentDeliveredSecurely" : false,
+  "validatorVersion" : "Version 1.4 (417.2-190530)",
+  "dataID" : 0,
+  "processedSegmentsCount" : 6,
+  "playlistTargetDuration" : 120,
+  "hasEndTag" : false,
+  "measuredMeanBitrate" : 1597068
+}

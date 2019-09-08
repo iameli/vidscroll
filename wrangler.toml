@@ -1,0 +1,17 @@
+account_id = "3f87ea767ec5d156e657206e049a9588"
+name = "vidscroll"
+type = "javascript"
+workers_dev = false
+
+[site]
+bucket = './dist'
+entry-point = './dist-worker'
+
+[env.staging]
+domain = "vidscroll.website"
+zone_id = "fd502345d80cdf657207984f0a31ccec"
+route = "*vidscroll.website/*"
+
+kv-namespaces = [
+  { binding = "KV", id = "ba6951ea05f44cac8a129cfedf149f54" }
+]
