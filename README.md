@@ -1,5 +1,9 @@
 # vidscroll
 
+this is a proof-of-concept that i did a while back to imitate TikTok's interface in HTML. open-sourcing it with no idea if it still works.
+
+### docs (that may not work anymore)
+
 how to make work:
 1. clone repo
 2. `yarn install`
